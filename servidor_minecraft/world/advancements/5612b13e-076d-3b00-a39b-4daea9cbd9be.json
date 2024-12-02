@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-02 06:57:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-02 06:37:57 +0000"
@@ -229,7 +235,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-02 06:32:46 +0000"
+      "bread": "2024-12-02 06:32:46 +0000",
+      "carrot": "2024-12-02 06:51:18 +0000"
     },
     "done": false
   },
@@ -413,6 +420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2024-12-02 06:57:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-02 06:37:57 +0000"
@@ -448,6 +461,7 @@
       "forest": "2024-12-02 06:37:44 +0000",
       "desert_hills": "2024-12-02 06:22:17 +0000",
       "plains": "2024-12-02 06:21:33 +0000",
+      "savanna": "2024-12-02 06:51:56 +0000",
       "river": "2024-12-02 06:22:26 +0000",
       "desert": "2024-12-02 06:22:11 +0000"
     },
@@ -594,6 +608,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2024-12-02 06:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-02 06:49:36 +0000"
     },
     "done": true
   },
