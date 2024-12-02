@@ -823,6 +823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2024-12-02 07:57:15 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
     "criteria": {
       "has_gravel": "2024-12-02 05:54:36 +0000"
@@ -919,6 +925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-02 07:56:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 05:32:52 +0000"
@@ -1000,6 +1012,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-12-02 07:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 07:57:15 +0000"
     },
     "done": true
   },
@@ -1247,6 +1265,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-12-02 06:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2024-12-02 07:56:39 +0000"
     },
     "done": true
   },

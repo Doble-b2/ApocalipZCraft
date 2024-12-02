@@ -337,6 +337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2024-12-02 08:01:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-02 05:00:02 +0000"
@@ -743,6 +749,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-12-02 07:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2024-12-02 08:01:13 +0000"
     },
     "done": true
   },

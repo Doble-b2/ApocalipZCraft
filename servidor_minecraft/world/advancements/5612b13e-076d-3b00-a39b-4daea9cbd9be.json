@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-02 08:02:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-02 06:48:02 +0000"
@@ -182,6 +188,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2024-12-02 07:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-02 08:02:10 +0000"
     },
     "done": true
   },
@@ -525,6 +537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2024-12-02 08:03:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-02 06:30:53 +0000"
@@ -534,6 +552,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-02 06:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-02 08:02:10 +0000"
     },
     "done": true
   },
@@ -723,6 +747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-02 08:02:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_redwood": {
     "criteria": {
       "entered_water": "2024-12-02 06:41:43 +0000"
@@ -900,6 +930,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-02 07:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-02 08:02:10 +0000"
     },
     "done": true
   },
