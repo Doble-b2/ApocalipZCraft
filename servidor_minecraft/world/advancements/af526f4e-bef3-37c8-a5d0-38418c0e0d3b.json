@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2024-12-02 05:47:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 05:17:49 +0000"
@@ -549,6 +555,7 @@
     "criteria": {
       "forest": "2024-12-02 05:05:14 +0000",
       "desert_hills": "2024-12-02 04:56:51 +0000",
+      "forest_hills": "2024-12-02 05:39:00 +0000",
       "savanna": "2024-12-02 05:12:44 +0000",
       "plains": "2024-12-02 05:02:20 +0000",
       "river": "2024-12-02 05:02:51 +0000",
@@ -741,6 +748,12 @@
       "entered_water": "2024-12-02 05:00:59 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2024-12-02 05:47:08 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
