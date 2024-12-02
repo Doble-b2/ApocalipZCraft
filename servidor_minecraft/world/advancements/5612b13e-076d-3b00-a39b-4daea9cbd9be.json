@@ -1,0 +1,17 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-02 06:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "desert_hills": "2024-12-02 06:22:17 +0000",
+      "plains": "2024-12-02 06:21:33 +0000",
+      "river": "2024-12-02 06:22:26 +0000",
+      "desert": "2024-12-02 06:22:11 +0000"
+    },
+    "done": false
+  }
+}
