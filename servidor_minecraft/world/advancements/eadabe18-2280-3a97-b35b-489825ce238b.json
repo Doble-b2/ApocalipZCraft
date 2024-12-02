@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-02 05:55:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2024-12-02 05:04:38 +0000"
@@ -284,7 +290,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-02 05:12:00 +0000",
-      "bread": "2024-12-02 05:17:27 +0000"
+      "bread": "2024-12-02 05:17:27 +0000",
+      "rotten_flesh": "2024-12-02 05:57:21 +0000"
     },
     "done": false
   },
@@ -501,6 +508,12 @@
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2024-12-02 05:18:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-02 06:02:15 +0000"
     },
     "done": true
   },
