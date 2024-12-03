@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-03 05:46:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-03 05:25:09 +0000"
@@ -321,6 +327,7 @@
     "criteria": {
       "apple": "2024-12-02 05:12:00 +0000",
       "bread": "2024-12-02 05:17:27 +0000",
+      "golden_apple": "2024-12-03 05:47:19 +0000",
       "rotten_flesh": "2024-12-02 05:57:21 +0000"
     },
     "done": false
