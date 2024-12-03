@@ -1030,6 +1030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-03 08:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2024-12-02 05:18:02 +0000"
@@ -1255,6 +1261,12 @@
   "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-12-02 06:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2024-12-03 07:56:35 +0000"
     },
     "done": true
   },
