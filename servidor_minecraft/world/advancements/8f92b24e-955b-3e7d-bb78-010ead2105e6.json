@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-03 06:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2024-12-03 06:14:46 +0000"
@@ -235,6 +241,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-12-03 06:38:42 +0000",
       "carrot": "2024-12-03 06:13:49 +0000"
     },
     "done": false
@@ -398,6 +405,12 @@
   "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-03 06:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2024-12-03 06:39:17 +0000"
     },
     "done": true
   },
@@ -566,6 +579,12 @@
   "biomesoplenty:recipes/transportation/boat_umbran": {
     "criteria": {
       "entered_water": "2024-12-03 06:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2024-12-03 06:39:17 +0000"
     },
     "done": true
   },

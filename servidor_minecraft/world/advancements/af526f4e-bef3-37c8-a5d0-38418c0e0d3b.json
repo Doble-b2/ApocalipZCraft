@@ -839,6 +839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2024-12-03 06:34:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
     "criteria": {
       "has_gravel": "2024-12-02 05:54:36 +0000"

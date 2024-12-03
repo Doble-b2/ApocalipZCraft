@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2024-12-03 06:33:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "entered_water": "2024-12-02 06:41:43 +0000"
