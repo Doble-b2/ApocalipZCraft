@@ -651,6 +651,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-04 06:17:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-02 05:12:00 +0000"
@@ -1089,6 +1095,12 @@
       "has_planks": "2024-12-02 05:04:38 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "emerald": "2024-12-04 06:19:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
