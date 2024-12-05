@@ -688,6 +688,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-05 07:11:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/trapdoor_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-02 06:37:57 +0000"
@@ -723,6 +729,7 @@
       "forest": "2024-12-02 06:37:44 +0000",
       "extreme_hills_with_trees": "2024-12-03 05:35:00 +0000",
       "desert_hills": "2024-12-02 06:22:17 +0000",
+      "forest_hills": "2024-12-05 07:11:47 +0000",
       "plains": "2024-12-02 06:21:33 +0000",
       "savanna": "2024-12-02 06:51:56 +0000",
       "savanna_rock": "2024-12-02 07:23:17 +0000",
